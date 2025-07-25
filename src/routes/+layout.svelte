@@ -12,22 +12,23 @@
 	@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed:wght@400;500;600;700&family=Geist:wght@100..900&display=swap');
 	:global(h1, h2, h3, h4, h5, h6) {
 		color: #222222;
-		font-weight: 600;
+		font-weight: 500;
 		font-family: 'Cabin Condensed', sans-serif;
 	}
 
-	h1 {
+	h1.title {
+		font-size: 2.5rem;
+		font-weight: 900;
+		font-family: 'Cabin Condensed', sans-serif;
+		color: #262d8a;
+	}
+
+	:global(h1) {
 		font-size: 2.5rem;
 	}
 
-	h2 {
+	:global(h2) {
 		font-size: 2rem;
-	}
-
-	h1 .title {
-		font-size: 2.5rem;
-		font-weight: 600;
-		font-family: 'Cabin Condensed', sans-serif;
 	}
 
 	:global(p) {

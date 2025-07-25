@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import{j as r,k as e,s as i,o as l,r as n}from"../chunks/2szUOS-F.js";import{s as p}from"../chunks/Bivd52WK.js";var d=r('<div class="container svelte-6fdpol"><h1 class="title svelte-6fdpol">Words by Cat</h1> <!></div>');function f(s,t){var o=d(),a=i(l(o),2);p(a,()=>t.children),n(o),e(s,o)}export{f as component};
