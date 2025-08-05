@@ -6,13 +6,13 @@ Wondering what to expect when working with me? Let’s hear from some of my auth
 <hr />
 
 
-<img src="/images/HPY.jpg" alt="Hung Po-yi" />
+<!-- Add this if you want to skip a photo -->
+<img style="display:none;" />
 
 “I am deeply grateful to Cat for her meticulous and insightful work in revising and polishing my article. Her keen eye for detail, thoughtful suggestions, and commitment to clarity greatly enhanced the quality of the manuscript. Thanks to her expertise and dedication, the article was accepted by a prestigious academic journal. She is also such a great person to work with — I truly recommend her.”
 
 ##  Ken-fang Lee
-### Professor, Graduate Institute of Translation and Interpretation, NTNU 
-### Author of *Translation aesthetics as a site of negotiation: when classical Chinese women's literature goes global*
+### Professor, Graduate Institute of Translation and Interpretation, NTNU, Author of *Translation aesthetics as a site of negotiation: when classical Chinese women's literature goes global*
 
 <img src="/images/HPY.jpg" alt="Hung Po-yi" />
 
