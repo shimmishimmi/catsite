@@ -1,0 +1,39 @@
+# Frequently Asked Questions
+
+## Is your name really Cat?
+
+Yes. I’m also known as 雷愷忻.
+
+## Do you like cats?
+
+Yes. Even my own cat, Shimmi.
+
+## What is your per word rate?
+
+The rate is not calculated on a per word basis but is a rather more complex calculation based on the manuscript evaluation and sample edit for each project. All projects include a proposal where this information is laid out.
+
+## Do you provide formatting services?
+
+Formatting is not included.
+
+## Do you check references or format reference lists?
+
+No, although I will cross-reference and flag missing references as I work on the manuscript.
+
+## What about publisher style guides?
+
+Manuscripts will be tweaked to adhere to publisher style guides, or other appropriate style guides (e.g. Chicago Manual of Style), and a reference dictionary will be specified in the proposal. For specific terms or other matters that fall outside these, the editor will consult with the author before applying universal changes. A style sheet will be provided with the final draft.
+
+## What are the stages of setting up a project?
+
+After discussion establishing the requirements of the project, I will evaluate the manuscript and provide a short sample edit so the author can understand my editing style. After this, a project proposal is prepared defining project scope, milestones, timelines and my fees.
+
+To protect the interests of both parties a contract will be provided by the editor prior to the project commencing.
+
+<style>
+    h2 {
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+        font-size: 1.2em;
+    }
+</style>

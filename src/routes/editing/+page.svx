@@ -1,0 +1,37 @@
+# Editing Services
+
+Copy editing can be a somewhat loose term, but the essence is to improve the readability and quality of your work to meet the appropriate professional standards. When it comes to academic copy editing these are the services I offer as a combined package:
+
+## Structural editing
+Advice on structure, clarity and flow including ‘big picture’ comments as appropriate regarding the overall thesis. Includes recommendations on how the document can be restructured to improve clarity, for example, moving information into a footnote or adding a footnote, advising on additional support required for a point/argument, reordering the presentation of arguments and so on.
+
+## Stylistic editing
+Suitability for audience, recommendations of rewriting for clarity. Polishing and streamlining paragraphs and sentences as appropriate.
+
+## Line Editing
+Correction of grammar, spelling and punctuation errors, raising possible factual errors for review by the client, flagging other issues as they arise for the Client’s review.
+
+## Qualifications 
+Queen’s University, Canada: Stylistic Editing Standards (Professional Editing Standards course), 2017
+
+
+
+
+<style>
+    h2 {
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+        font-size: 1.2em;
+    }
+
+    h2::before {
+        content: ""; /* Creates an empty pseudo-element */
+        display: block; /* Makes it behave like a block element */
+        width: 100%; /* Full width */
+        height: 1px; /* Height of the line */
+        background-color: #ccc; /* Line color */
+        margin-top: 3em; /* Space above the line */
+        margin-bottom: 2em; /* Space below the line */
+    }
+
+</style>

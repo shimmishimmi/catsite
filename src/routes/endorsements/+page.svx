@@ -1,0 +1,97 @@
+# Endorsements
+
+Wondering what to expect when working with me? Let’s hear from some of my authors and clients.
+
+
+<hr />
+
+
+<img src="/images/HPY.jpg" alt="Hung Po-yi" />
+
+“I especially thank my copyeditor, Cat Thomas. As a non-native speaker of English, I need a professional copyeditor like Cat for editing, clarifying, and polishing my language. Nevertheless, what Cat has done is more than copyediting. Literally being the first reader who read through the whole story, Cat would share her thoughts as a reader with me, especially based on her experiences on the issues of migrant workers in Taiwan. Moreover, Cat has been so encouraging for and confident with my writing, not only for the content per se but also for my personal tone in telling the story.”
+
+## Hung Po-yi
+### NTU Geography professor, Author of *Placing Tea*
+
+
+<img src="/images/HPY.jpg" alt="Hung Po-yi" />
+
+“I especially thank my copyeditor, Cat Thomas. As a non-native speaker of English, I need a professional copyeditor like Cat for editing, clarifying, and polishing my language. Nevertheless, what Cat has done is more than copyediting. Literally being the first reader who read through the whole story, Cat would share her thoughts as a reader with me, especially based on her experiences on the issues of migrant workers in Taiwan. Moreover, Cat has been so encouraging for and confident with my writing, not only for the content per se but also for my personal tone in telling the story.”
+
+## Hung Po-yi
+### NTU Geography professor, Author of *Placing Tea*
+
+
+<img src="/images/HPY.jpg" alt="Hung Po-yi" />
+
+“I especially thank my copyeditor, Cat Thomas. As a non-native speaker of English, I need a professional copyeditor like Cat for editing, clarifying, and polishing my language. Nevertheless, what Cat has done is more than copyediting. Literally being the first reader who read through the whole story, Cat would share her thoughts as a reader with me, especially based on her experiences on the issues of migrant workers in Taiwan. Moreover, Cat has been so encouraging for and confident with my writing, not only for the content per se but also for my personal tone in telling the story.”
+
+## Hung Po-yi
+### NTU Geography professor, Author of *Placing Tea*
+
+<img src="/images/HPY.jpg" alt="Hung Po-yi" />
+
+“I especially thank my copyeditor, Cat Thomas. As a non-native speaker of English, I need a professional copyeditor like Cat for editing, clarifying, and polishing my language. Nevertheless, what Cat has done is more than copyediting. Literally being the first reader who read through the whole story, Cat would share her thoughts as a reader with me, especially based on her experiences on the issues of migrant workers in Taiwan. Moreover, Cat has been so encouraging for and confident with my writing, not only for the content per se but also for my personal tone in telling the story.”
+
+## Hung Po-yi
+### NTU Geography professor, Author of *Placing Tea*
+
+<style>
+
+    p {
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+
+    img {
+        width: 10em;
+        height: 10em;
+        object-fit: cover;
+        object-position: center;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        float: left;
+        margin-right: 2em;
+        margin-left: 0;
+    }
+
+    img:nth-of-type(odd) {
+        float: right;
+        margin-left: 2em;
+        margin-right: 0;
+    }
+
+    h2 {
+        clear: both;
+        text-align: left;
+        margin-top: 0;
+        margin-bottom: 0.2em;
+    }
+
+    h2:nth-of-type(odd) {
+        clear: both;
+        text-align: right;
+    }
+
+    h3 {
+        clear: both;
+        text-align: left;
+        margin-top: 0;
+        margin-bottom: 3.0em;
+    }
+
+    h3:nth-of-type(odd) {
+        clear: both;
+        text-align: right;
+    }
+
+    h3::after {
+        content: ""; /* Creates an empty pseudo-element */
+        display: block; /* Makes it behave like a block element */
+        width: 100%; /* Full width */
+        height: 1px; /* Height of the line */
+        background-color: #ccc; /* Line color */
+        margin-top: 3em; /* Space above the line */
+        margin-bottom: 2em; /* Space below the line */
+    }
+</style>

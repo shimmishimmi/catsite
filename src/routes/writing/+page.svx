@@ -1,0 +1,86 @@
+# Writing Portfolio
+
+Freelance journalist based in Taipei, Taiwan. Recipient of Diversity, Equity and Inclusion (DEI) Reporting Fellowship from AAJA—Asia, 2022.
+
+Comfortable writing on a variety of beats: Human Rights, Culture & Society, Politics, Travel, and Tech.
+
+## Feature Articles
+
+<img class="article-photo" src="/images/sample_file_1.png" alt="People protesting" />
+
+### [Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, facere.](https://example.com)
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, necessitatibus quibusdam enim harum saepe impedit assumenda ipsum perferendis quos. In id officia illum aliquid ipsum quis et, repudiandae cumque a optio quaerat aliquam amet labore expedita? Possimus ducimus rem aliquam porro aut ipsam illo consequuntur ut, cum veritatis sed quod?
+
+<img class="article-photo" src="/images/sample_file_1.png" alt="People protesting" />
+
+### [Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, facere.](https://example.com)
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, necessitatibus quibusdam enim harum saepe impedit assumenda ipsum perferendis quos. In id officia illum aliquid ipsum quis et, repudiandae cumque a optio quaerat aliquam amet labore expedita? Possimus ducimus rem aliquam porro aut ipsam illo consequuntur ut, cum veritatis sed quod?
+
+<img class="article-photo" src="/images/sample_file_1.png" alt="People protesting" />
+
+### [Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, facere.](https://example.com)
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, necessitatibus quibusdam enim harum saepe impedit assumenda ipsum perferendis quos. In id officia illum aliquid ipsum quis et, repudiandae cumque a optio quaerat aliquam amet labore expedita? Possimus ducimus rem aliquam porro aut ipsam illo consequuntur ut, cum veritatis sed quod?
+
+## Migrant issues
+
+### [How a Factory Worker Lost Her Life at Taiwan’s Tyntek, Home to a Culture of Negligence](https://ketagalanmedia.com/2019/10/06/how-a-factory-worker-lost-her-life-at-taiwans-tyntek-home-to-a-culture-of-negligence/)
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, necessitatibus quibusdam enim harum saepe impedit assumenda ipsum perferendis quos. In id officia illum aliquid ipsum quis et, repudiandae cumque a optio quaerat aliquam amet labore expedita? Possimus ducimus rem aliquam porro aut ipsam illo consequuntur ut, cum veritatis sed quod?
+
+### [How the Portrayal of Migrant Workers in Taiwan’s Media Shapes the Perception of Their Role in Society](https://anda-aaja.com/how-the-portrayal-of-migrant-workers-in-taiwans-media-shapes-the-perception-of-their-role-in-society/)
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, necessitatibus quibusdam enim harum saepe impedit assumenda ipsum perferendis quos. In id officia illum aliquid ipsum quis et, repudiandae cumque a optio quaerat aliquam amet labore expedita? Possimus ducimus rem aliquam porro aut ipsam illo consequuntur ut, cum veritatis sed quod?
+
+## Politics
+
+### [Taiwan’s Household Registration System Disenfranchises Its Young Voters](https://ketagalanmedia.com/2020/01/06/taiwans-household-registration-system-is-disenfranchising-young-voters/)
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, necessitatibus quibusdam enim harum saepe impedit assumenda ipsum perferendis quos. In id officia illum aliquid ipsum quis et, repudiandae cumque a optio quaerat aliquam amet labore expedita? Possimus ducimus rem aliquam porro aut ipsam illo consequuntur ut, cum veritatis sed quod?
+
+
+<style>
+    a {
+        text-decoration: none;
+    }
+
+
+    h3 + p::after {
+        content: "";
+        display: block;
+        width: 100%; 
+        height: 1px; 
+        background-color: #ccc;
+        margin-top: 3em;
+        margin-bottom: 2em;
+    }
+
+    h2 + p::after {
+        content: none;
+    }
+
+    /* no line before h2 */
+    h2::before {
+        content: none;
+    }
+
+    /* no line after p if before an h2 */
+    h2 + p::after {
+        content: none;
+    }
+
+    .article-photo {
+        width: auto;
+        height: 15em;
+        object-fit: cover;
+        object-position: center;
+        margin-top: 0em;
+        margin-bottom: 1em;
+        float: left;
+        margin-right: 2em;
+        margin-left: 0;
+    }
+    
+</style>
