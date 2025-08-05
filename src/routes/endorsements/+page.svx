@@ -5,21 +5,23 @@ Wondering what to expect when working with me? Let’s hear from some of my auth
 
 <hr />
 
-
-<!-- Add this if you want to skip a photo -->
-<img style="display:none;" />
+<img style="display:none;" alt="" />
 
 “I am deeply grateful to Cat for her meticulous and insightful work in revising and polishing my article. Her keen eye for detail, thoughtful suggestions, and commitment to clarity greatly enhanced the quality of the manuscript. Thanks to her expertise and dedication, the article was accepted by a prestigious academic journal. She is also such a great person to work with — I truly recommend her.”
 
 ##  Ken-fang Lee
-### Professor, Graduate Institute of Translation and Interpretation, NTNU, Author of *Translation aesthetics as a site of negotiation: when classical Chinese women's literature goes global*
+### Professor, Graduate Institute of Translation and Interpretation, NTNU
+### Author of *“Translation aesthetics as a site of negotiation: when classical Chinese women's literature goes global”*
 
-<img src="/images/HPY.jpg" alt="Hung Po-yi" />
+<br/>
+
+<img src="/images/HPY.jpg" alt="Po-Yi Hung" />
 
 “I especially thank my copyeditor, Cat Thomas. As a non-native speaker of English, I need a professional copyeditor like Cat for editing, clarifying, and polishing my language. Nevertheless, what Cat has done is more than copyediting. Literally being the first reader who read through the whole story, Cat would share her thoughts as a reader with me, especially based on her experiences on the issues of migrant workers in Taiwan. Moreover, Cat has been so encouraging for and confident with my writing, not only for the content per se but also for my personal tone in telling the story.”
 
-## Hung Po-yi
-### NTU Geography professor, Author of *Placing Tea*
+## Po-Yi Hung
+### NTU Geography professor
+### Author of *Placing Tea*
 
 
 
@@ -37,12 +39,6 @@ Wondering what to expect when working with me? Let’s hear from some of my auth
         object-position: center;
         margin-top: 1em;
         margin-bottom: 1em;
-        float: left;
-        margin-right: 2em;
-        margin-left: 0;
-    }
-
-    img:nth-of-type(odd) {
         float: right;
         margin-left: 2em;
         margin-right: 0;
@@ -50,35 +46,32 @@ Wondering what to expect when working with me? Let’s hear from some of my auth
 
     h2 {
         clear: both;
-        text-align: left;
-        margin-top: 0;
-        margin-bottom: 0.2em;
-    }
-
-    h2:nth-of-type(odd) {
-        clear: both;
         text-align: right;
+        margin-top: 0;
+        margin-bottom: 0.3em;
     }
 
     h3 {
         clear: both;
-        text-align: left;
-        margin-top: 0;
-        margin-bottom: 3.0em;
-    }
-
-    h3:nth-of-type(odd) {
-        clear: both;
         text-align: right;
+        margin-top: 0;
+        margin-bottom: 0.3em;
+        /* margin-bottom: 3.0em; */
     }
 
     h3::after {
+        content: none; /* Removes the pseudo-element */
+        margin-top: 0; /* No space above the line */
+    }
+
+    h3 + h3::after {
         content: ""; /* Creates an empty pseudo-element */
         display: block; /* Makes it behave like a block element */
         width: 100%; /* Full width */
         height: 1px; /* Height of the line */
         background-color: #ccc; /* Line color */
         margin-top: 3em; /* Space above the line */
-        margin-bottom: 2em; /* Space below the line */
+        margin-bottom: 0em; /* Space below the line */
     }
+
 </style>
